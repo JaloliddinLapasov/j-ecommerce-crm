@@ -6,7 +6,7 @@ const orders = [
   {
     id: "ORD-001",
     customerId: 1,
-    customerName: "Aziza Karimova",
+    customerName: "Jaloliddin Lapasov",
     items: [
       {
         productId: 1,

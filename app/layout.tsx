@@ -20,11 +20,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="uz">
-      <body className={inter.className}>
+      <body className={inter.className + " bg-gradient-to-br from-indigo-50 to-white dark:from-indigo-900 dark:to-indigo-800"}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <div className="flex h-screen">
             <Sidebar />
-            <main className="flex-1 overflow-y-auto">{children}</main>
+            <main className="flex-1 overflow-y-auto p-8 bg-transparent">
+              {children}
+            </main>
           </div>
         </ThemeProvider>
       </body>

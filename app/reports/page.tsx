@@ -42,11 +42,11 @@ const productPerformance = [
 ]
 
 const topCustomers = [
-  { name: "Aziza Karimova", orders: 15, spent: 1250, lastOrder: "2024-01-15" },
-  { name: "Bobur Toshmatov", orders: 12, spent: 980, lastOrder: "2024-01-14" },
-  { name: "Dilnoza Rahimova", orders: 10, spent: 850, lastOrder: "2024-01-13" },
-  { name: "Sardor Alimov", orders: 8, spent: 720, lastOrder: "2024-01-12" },
-  { name: "Malika Nazarova", orders: 7, spent: 650, lastOrder: "2024-01-11" },
+  { name: "Jaloliddin Lapasov", orders: 15, spent: 1250, lastOrder: "2024-01-15" },
+  { name: "Asadbek Matvaliyev", orders: 12, spent: 980, lastOrder: "2024-01-14" },
+  { name: "Sherzod Jumayev", orders: 10, spent: 850, lastOrder: "2024-01-13" },
+  { name: "Rustam Aliyev", orders: 8, spent: 720, lastOrder: "2024-01-12" },
+  { name: "Ulug'bek Sobirov", orders: 7, spent: 650, lastOrder: "2024-01-11" },
 ]
 
 const inventoryReport = [

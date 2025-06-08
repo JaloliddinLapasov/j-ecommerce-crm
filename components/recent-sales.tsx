@@ -6,33 +6,33 @@ export function RecentSales() {
       <div className="flex items-center">
         <Avatar className="h-9 w-9">
           <AvatarImage src="/avatars/01.png" alt="Avatar" />
-          <AvatarFallback>AK</AvatarFallback>
+          <AvatarFallback>JL</AvatarFallback>
         </Avatar>
         <div className="ml-4 space-y-1">
-          <p className="text-sm font-medium leading-none">Aziza Karimova</p>
-          <p className="text-sm text-muted-foreground">aziza@example.com</p>
+          <p className="text-sm font-medium leading-none">Jaloliddin Lapasov</p>
+          <p className="text-sm text-muted-foreground">jaloliddin@gmail.com</p>
         </div>
         <div className="ml-auto font-medium">+$1,999.00</div>
       </div>
       <div className="flex items-center">
         <Avatar className="flex h-9 w-9 items-center justify-center space-y-0 border">
           <AvatarImage src="/avatars/02.png" alt="Avatar" />
-          <AvatarFallback>BT</AvatarFallback>
+          <AvatarFallback>AM</AvatarFallback>
         </Avatar>
         <div className="ml-4 space-y-1">
-          <p className="text-sm font-medium leading-none">Bobur Toshmatov</p>
-          <p className="text-sm text-muted-foreground">bobur@example.com</p>
+          <p className="text-sm font-medium leading-none">Asadbek Matvaliyev</p>
+          <p className="text-sm text-muted-foreground">asadbek@gmail.com</p>
         </div>
         <div className="ml-auto font-medium">+$39.00</div>
       </div>
       <div className="flex items-center">
         <Avatar className="h-9 w-9">
           <AvatarImage src="/avatars/03.png" alt="Avatar" />
-          <AvatarFallback>DR</AvatarFallback>
+          <AvatarFallback>SJ</AvatarFallback>
         </Avatar>
         <div className="ml-4 space-y-1">
-          <p className="text-sm font-medium leading-none">Dilnoza Rahimova</p>
-          <p className="text-sm text-muted-foreground">dilnoza@example.com</p>
+          <p className="text-sm font-medium leading-none">Sherzod Jumayev</p>
+          <p className="text-sm text-muted-foreground">sherzod@gmail.com</p>
         </div>
         <div className="ml-auto font-medium">+$299.00</div>
       </div>
@@ -42,19 +42,19 @@ export function RecentSales() {
           <AvatarFallback>SA</AvatarFallback>
         </Avatar>
         <div className="ml-4 space-y-1">
-          <p className="text-sm font-medium leading-none">Sardor Alimov</p>
-          <p className="text-sm text-muted-foreground">sardor@example.com</p>
+          <p className="text-sm font-medium leading-none">Rustam Alimov</p>
+          <p className="text-sm text-muted-foreground">rustam@gmail.com</p>
         </div>
         <div className="ml-auto font-medium">+$99.00</div>
       </div>
       <div className="flex items-center">
         <Avatar className="h-9 w-9">
           <AvatarImage src="/avatars/05.png" alt="Avatar" />
-          <AvatarFallback>MN</AvatarFallback>
+          <AvatarFallback>US</AvatarFallback>
         </Avatar>
         <div className="ml-4 space-y-1">
-          <p className="text-sm font-medium leading-none">Malika Nazarova</p>
-          <p className="text-sm text-muted-foreground">malika@example.com</p>
+          <p className="text-sm font-medium leading-none">Ulug'bek Sobirov</p>
+          <p className="text-sm text-muted-foreground">ulugbek@gmail.com</p>
         </div>
         <div className="ml-auto font-medium">+$39.00</div>
       </div>

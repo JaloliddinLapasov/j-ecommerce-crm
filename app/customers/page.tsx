@@ -47,8 +47,8 @@ interface Customer {
 const initialCustomers: Customer[] = [
   {
     id: 1,
-    name: "Aziza Karimova",
-    email: "aziza@example.com",
+    name: "Jaloliddin Lapasov",
+    email: "jaloliddin@gmail.com",
     phone: "+998901234567",
     address: "Toshkent, Chilonzor tumani",
     totalOrders: 15,
@@ -57,8 +57,8 @@ const initialCustomers: Customer[] = [
   },
   {
     id: 2,
-    name: "Bobur Toshmatov",
-    email: "bobur@example.com",
+    name: "Asadbek Matvaliyev",
+    email: "asadbek@gmail.com",
     phone: "+998907654321",
     address: "Toshkent, Yunusobod tumani",
     totalOrders: 8,
@@ -67,8 +67,8 @@ const initialCustomers: Customer[] = [
   },
   {
     id: 3,
-    name: "Dilnoza Rahimova",
-    email: "dilnoza@example.com",
+    name: "Sherzod Jumayev",
+    email: "sherzod@gmail.com",
     phone: "+998909876543",
     address: "Samarqand, Markaz tumani",
     totalOrders: 3,

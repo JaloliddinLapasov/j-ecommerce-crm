@@ -46,7 +46,7 @@ interface Order {
 const initialOrders: Order[] = [
   {
     id: "ORD-001",
-    customer: "Aziza Karimova",
+    customer: "Jaloliddin Lapasov",
     date: "2024-01-15",
     total: "$125.00",
     status: "Yetkazildi",
@@ -57,7 +57,7 @@ const initialOrders: Order[] = [
   },
   {
     id: "ORD-002",
-    customer: "Bobur Toshmatov",
+    customer: "Asadbek Matvaliyev",
     date: "2024-01-14",
     total: "$89.50",
     status: "Yo'lda",
@@ -67,7 +67,7 @@ const initialOrders: Order[] = [
   },
   {
     id: "ORD-003",
-    customer: "Dilnoza Rahimova",
+    customer: "Sherzod Jumayev",
     date: "2024-01-13",
     total: "$156.75",
     status: "Tayyorlanmoqda",
@@ -77,7 +77,7 @@ const initialOrders: Order[] = [
   },
   {
     id: "ORD-004",
-    customer: "Sardor Alimov",
+    customer: "Ulug'bek Sobirov",
     date: "2024-01-12",
     total: "$67.25",
     status: "Bekor qilingan",
