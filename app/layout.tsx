@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "J-SHOP CRM - Kiyim-Kechak Savdo Boshqaruvi",
   description: "Kiyim-kechak biznesini boshqarish uchun CRM tizimi",
-    generator: 'v0.dev'
+    generator: 'J-SHOP CRM',
 }
 
 export default function RootLayout({
