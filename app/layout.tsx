@@ -8,7 +8,7 @@ import { Sidebar } from "@/components/sidebar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Fashion CRM - Kiyim-Kechak Biznes Boshqaruvi",
+  title: "J-SHOP CRM - Kiyim-Kechak Savdo Boshqaruvi",
   description: "Kiyim-kechak biznesini boshqarish uchun CRM tizimi",
     generator: 'v0.dev'
 }

@@ -6,8 +6,8 @@ import { NextResponse } from "next/server"
 const customers = [
   {
     id: 1,
-    name: "Aziza Karimova",
-    email: "aziza@example.com",
+    name: "Jaloliddin Lapasov",
+    email: "jaloliddin@gmail.com",
     phone: "+998901234567",
     address: "Toshkent, Chilonzor tumani",
     totalOrders: 15,
