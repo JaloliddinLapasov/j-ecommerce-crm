@@ -53,7 +53,7 @@ const initialProducts: Product[] = [
     price: "$45",
     stock: 25,
     size: "S, M, L, XL",
-    color: "Oq, Qora, Ko'k",
+    color: "Oq, Qora, Yashil",
     image: "/placeholder.svg?height=100&width=100",
     status: "Mavjud",
     description: "Yumshoq paxta materialidan tayyorlangan klassik ko'ylak",
