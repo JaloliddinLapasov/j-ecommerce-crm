@@ -30,5 +30,7 @@ jobs:
 
       - name: Build project
         run: npm run build
-        env:
-          NEXT_PUBLIC_API_URL: ${{ secrets.NEXT_PUBLIC_API_URL }}
+
+      - name: Trigger Render Deploy
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
