@@ -60,7 +60,7 @@ const initialProducts: Product[] = [
   },
   {
     id: 2,
-    name: "Jinsi Shim",
+    name: "Jinsi Shimlar",
     category: "Shimlar",
     price: "$65",
     stock: 15,
