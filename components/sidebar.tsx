@@ -56,7 +56,7 @@ export function Sidebar() {
 							<div className="flex items-center gap-2">
 								<img src="/image.png" alt="J-Shop CRM" className="h-10 w-10 rounded-full shadow-lg bg-white p-1" />
 								<h2 className="text-xl font-bold tracking-wide text-white">
-									J-SHOP CRM 2
+									J-SHOP CRM
 								</h2>
 							</div>
 							<LanguageTranslator />
